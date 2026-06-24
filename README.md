@@ -1,5 +1,23 @@
 # 🚀 AgentBridge — Multi-Agent AI System
 
+# AgentBridge
+
+AgentBridge is a multi-agent AI platform designed to support employees facing workplace challenges while helping organizations identify recurring concerns through anonymized insights.
+
+By combining specialized AI agents, secure knowledge retrieval, and intelligent orchestration, AgentBridge delivers personalized recommendations and actionable workplace intelligence.
+
+---
+
+## Key Features
+
+- Multi-agent collaboration
+- Personalized workplace guidance
+- Resource discovery and recommendations
+- Workplace issue classification
+- Anonymous organizational insights
+- Explainable AI outputs
+- Privacy-focused design
+
 ## 📌 Overview
 AgentBridge is a multi-agent AI system designed to support employees and generate workplace insights using AI.
 
