@@ -1,5 +1,10 @@
 # 🚀 AgentBridge — Multi-Agent AI System
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Gemini](https://img.shields.io/badge/Google-Gemini-green)
+![Multi-Agent](https://img.shields.io/badge/Architecture-MultiAgent-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # AgentBridge
 
 AgentBridge is a multi-agent AI platform designed to support employees facing workplace challenges while helping organizations identify recurring concerns through anonymized insights.
@@ -44,6 +49,18 @@ AgentBridge uses multiple AI agents:
 
 ---
 
+## Workflow
+
+1. Employee submits a workplace concern.
+2. AgentBridge routes the request through the Orchestrator Agent.
+3. Workplace Analysis Agent classifies the issue.
+4. Resource Discovery Agent retrieves relevant resources.
+5. Employee Support Agent generates recommendations.
+6. Insights Agent contributes anonymized trends.
+7. AgentBridge delivers actionable guidance.
+
+---
+
 ## 🧠 Key Idea
 Instead of a single chatbot, AgentBridge uses **multiple specialized AI agents working together**.
 
@@ -57,11 +74,17 @@ Instead of a single chatbot, AgentBridge uses **multiple specialized AI agents w
 
 ---
 
-## ⚙️ Tech Stack
-- Streamlit  
-- Python  
-- LLM concept  
-- Multi-agent design  
+## Technology Stack
+
+| Component | Technology |
+|------------|------------|
+| LLM | Google Gemini |
+| Agent Framework | ADK |
+| Communication | MCP Server |
+| Retrieval | RAG |
+| Interface | Streamlit |
+| Backend | Python |
+| Deployment | Web-based |
 
 ---
 
