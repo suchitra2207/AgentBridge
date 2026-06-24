@@ -88,5 +88,27 @@ Instead of a single chatbot, AgentBridge uses **multiple specialized AI agents w
 
 ---
 
+## Getting Started
+
+### Clone Repository
+
+```bash
+git clone https://github.com/suchitra2207/AgentBridge.git
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run Application
+
+```bash
+streamlit run app.py
+```
+
+---
+
 ## 🚀 Status
 MVP upgraded for submission and demonstration
