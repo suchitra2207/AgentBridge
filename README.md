@@ -16,7 +16,13 @@ AgentBridge uses multiple AI agents:
 - Employee Support Agent → provides guidance  
 - Workplace Analysis Agent → classifies issues  
 - Resource Agent → retrieves policies  
-- Insights Agent → identifies patterns  
+- Insights Agent → identifies patterns
+
+---
+
+## System Architecture
+
+![Architecture](assets/architecture.png)
 
 ---
 
